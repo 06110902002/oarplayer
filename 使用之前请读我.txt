@@ -1,0 +1,1 @@
+oarplayer Rtmp播放器,基于MediaCodec与srs-librtmp,不依赖ffmpeg
